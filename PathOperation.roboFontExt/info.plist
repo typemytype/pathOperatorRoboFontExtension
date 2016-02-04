@@ -37,6 +37,8 @@
 	<dict>
 		<key>repository</key>
 		<string>typemytype/pathOperatorRoboFontExtension</string>
+		<key>summary</key>
+		<string>A small tool to perform boolean operations.</string>
 	</dict>
 </dict>
 </plist>
