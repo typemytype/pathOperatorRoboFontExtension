@@ -1,3 +1,5 @@
+from drawBot import *
+
 size(500, 500)
 fill(1)
 rect(0, 0, width(), height())
