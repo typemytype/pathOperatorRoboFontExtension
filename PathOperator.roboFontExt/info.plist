@@ -24,7 +24,7 @@
 	<key>mainScript</key>
 	<string></string>
 	<key>name</key>
-	<string>PathOperation</string>
+	<string>PathOperator</string>
 	<key>requiresVersionMajor</key>
 	<string>1</string>
 	<key>requiresVersionMinor</key>
@@ -32,13 +32,13 @@
 	<key>timeStamp</key>
 	<real>1425053172.3620169</real>
 	<key>version</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>com.robofontmechanic.Mechanic</key>
 	<dict>
 		<key>repository</key>
 		<string>typemytype/pathOperatorRoboFontExtension</string>
 		<key>summary</key>
-		<string>A small tool to perform boolean operations.</string>
+		<string>A small tool to perform boolean operations on glyph contours.</string>
 	</dict>
 </dict>
 </plist>

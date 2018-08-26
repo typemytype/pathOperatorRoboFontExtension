@@ -1,7 +1,7 @@
-# Path Operations
+# Path Operator
 
-Perfom a union, difference, intersection or xor on paths inside RoboFont.
-This is a simple interface for [BooleanOperations](https://github.com/typemytype/booleanOperations).
+Performs *union*, *difference*, *intersection* and *xor* operations on glyph contours.
 
-![image](pathOperations.png)
+A simple interface for the [BooleanOperations module](https://github.com/typemytype/booleanOperations).
 
+![image](pathOperator.png)
