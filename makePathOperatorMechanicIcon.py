@@ -15,5 +15,5 @@ drawPath(B3)
 
 import os
 folder = os.getcwd()
-imgPath = os.path.join(folder, 'pathOperatorIcon.png')
+imgPath = os.path.join(folder, 'pathOperatorMechanicIcon.png')
 saveImage(imgPath)
